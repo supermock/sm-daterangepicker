@@ -1,6 +1,6 @@
 {
   "name": "sm-daterangepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The daterangepicker component of the bootstrap: http://www.daterangepicker.com/, in directive for use with the angular.",
   "main": "lib/index.js",
   "scripts": {
