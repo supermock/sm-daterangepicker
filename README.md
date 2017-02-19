@@ -113,7 +113,7 @@ To better understand what I am explaining below, read about the angular translat
 
 ---
 > **Namespace (Optional):**
-> <input type="text" suffix-translation="NAMESPACE" sm-daterangepicker>
+> ``` <input type="text" suffix-translation="NAMESPACE" sm-daterangepicker> ```
 
 **file_of_translation.js**
 ```
@@ -168,9 +168,6 @@ Using the date-limit attribute is not that complicated, what it does just, is to
 ## Contribution
 Contribute to the fact that daterangepicker directive is getting better and better.
 Just download the project and apply your changes, and after that it will be analyzed to be approved.
-
-## Credits
-[SuperMock](https://github.com/supermock/)
 
 ## Licence
 MIT

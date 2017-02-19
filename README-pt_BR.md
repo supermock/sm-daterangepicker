@@ -113,7 +113,7 @@ Para entender melhor sobre o que estou explicando abaixo, leia sobre o angular t
 
 ---
 > **Namespace (Opcional):**
-> <input type="text" suffix-translation="NAMESPACE" sm-daterangepicker>
+> ``` <input type="text" suffix-translation="NAMESPACE" sm-daterangepicker> ```
 
 **arquivo_de_traducao.js**
 ```
@@ -165,9 +165,6 @@ Usar o atributo date-limit não é assim tão complicado, o que ele faz apenas, 
 ## Contribuição
 Contribua para que está diretiva daterangepicker fique cada vez melhor.
 Basta baixar o projeto e aplicar suas alterações, e após isto será analizado para ser aprovado.
-
-## Creditos
-[SuperMock](https://github.com/supermock/)
 
 ## Licença
 MIT
